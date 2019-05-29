@@ -25,3 +25,5 @@ These teams are composed of 20 or more members. The strategy within these teams 
 One of the advanatges for creating a mock system is so the individual subteams can now move forward with few dependencies on other subteams. Each team will evolve their subsystems replacing the mock version of code with real code. These versions are then sent to the other subteams who then choose when they want to integrate these new versions into their own environment. Another advantage is that your test team can now test against the entire model. You can put together your integration framework to support your integration efforts across the entire system as well as integration efforts on individual subteams. Individual subteams will promote their code after they've tested it within their own environments. A test team will often do a full system integration test, this might be difficult for the subteams to do becuase of time and resource constraints. 
 
 ## Diagram of what a large agile team looks like:
+
+Citation: http://www.ambysoft.com/essays/agileRoles.html
